@@ -41,6 +41,4 @@ const deleteNoteById = (noteId, file) => {
         }
     });
 }
-
-
 module.exports = { readFromFile, writeToFile, readAndAppend };
