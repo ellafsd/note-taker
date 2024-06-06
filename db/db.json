@@ -4,13 +4,18 @@
         "text": "Test text"
     },
     {
-        "id": "ccb6",
-        "title": "Dinner",
-        "text": "for tomorrow"
+        "id": "c933",
+        "title": "Study",
+        "text": "JavaScript"
     },
     {
-        "id": "af50",
+        "id": "bdb7",
         "title": "Laundry",
-        "text": "whites and colors"
+        "text": "Whites and colors"
+    },
+    {
+        "id": "4b14",
+        "title": "Dinner",
+        "text": "batch cooking"
     }
 ]
